@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "repository": "claude-code.cli",
+  "providerType": "cli",
+  "id": "cli_claude_code",
+  "title": "Claude Code CLI",
+  "adapter": "cli_claude_code",
+  "executable": "claude"
+}
